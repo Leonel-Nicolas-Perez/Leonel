@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    margin: 1px 0;
+}
+
+h2 {
+    color: blue;
+    background: #e0f7fa;
+    padding: 10px;
+    margin: 10px;
+}
+
+h3 {
+    color: orange;
+    background: #ffe5b4;
+    padding: 8px;
+    margin: 10px;
+}
+
+p {
+    color: #333;
+    background: #fff;
+    padding: 6px;
+}
+
+footer {
+    background: #ff8b80;
+    color: #444;
+    padding: 12px;
+    border-top: 1px solid #ffe066;
+}
+
+main {
+    background-color: #f4f4f4;
+    padding: 32px 40px;
+    border-radius: 16px;
+    margin: 32px auto;
+}
